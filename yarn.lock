@@ -1634,7 +1634,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nrwl/cli@npm:9.0.0":
+"@nrwl/cli@npm:9.0.0, @nrwl/cli@npm:^9.0.0":
   version: 9.0.0
   resolution: "@nrwl/cli@npm:9.0.0"
   dependencies:
@@ -9375,6 +9375,7 @@ fsevents@~2.1.2:
     "@angular/platform-browser-dynamic": 9.0.0
     "@angular/router": 9.0.0
     "@nrwl/angular": 9.0.0
+    "@nrwl/cli": ^9.0.0
     "@nrwl/cypress": 9.0.0
     "@nrwl/jest": 9.0.0
     "@nrwl/workspace": 9.0.0
